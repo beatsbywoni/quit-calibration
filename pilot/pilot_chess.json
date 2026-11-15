@@ -1,0 +1,787 @@
+{
+ "n_games": 3048388,
+ "first": "2026.10.01 00:00:25",
+ "last": "2026.10.02 00:16:52",
+ "minply": 10,
+ "eval_share": 0.10431349290182221,
+ "composition": [
+  {
+   "has_eval": false,
+   "speed": "blitz",
+   "cls": "draw",
+   "n": 55846,
+   "mean_elo": 1682,
+   "mean_ply": 110.6
+  },
+  {
+   "has_eval": false,
+   "speed": "blitz",
+   "cls": "mate",
+   "n": 304710,
+   "mean_elo": 1541,
+   "mean_ply": 70.3
+  },
+  {
+   "has_eval": false,
+   "speed": "blitz",
+   "cls": "other",
+   "n": 1947,
+   "mean_elo": 1602,
+   "mean_ply": 1.9
+  },
+  {
+   "has_eval": false,
+   "speed": "blitz",
+   "cls": "resign",
+   "n": 609609,
+   "mean_elo": 1629,
+   "mean_ply": 58.7
+  },
+  {
+   "has_eval": false,
+   "speed": "blitz",
+   "cls": "time",
+   "n": 292780,
+   "mean_elo": 1613,
+   "mean_ply": 78.9
+  },
+  {
+   "has_eval": false,
+   "speed": "bullet",
+   "cls": "draw",
+   "n": 29728,
+   "mean_elo": 1924,
+   "mean_ply": 102.3
+  },
+  {
+   "has_eval": false,
+   "speed": "bullet",
+   "cls": "mate",
+   "n": 224780,
+   "mean_elo": 1784,
+   "mean_ply": 62.7
+  },
+  {
+   "has_eval": false,
+   "speed": "bullet",
+   "cls": "other",
+   "n": 778,
+   "mean_elo": 1736,
+   "mean_ply": 1.9
+  },
+  {
+   "has_eval": false,
+   "speed": "bullet",
+   "cls": "resign",
+   "n": 235204,
+   "mean_elo": 1824,
+   "mean_ply": 50.4
+  },
+  {
+   "has_eval": false,
+   "speed": "bullet",
+   "cls": "time",
+   "n": 525066,
+   "mean_elo": 1735,
+   "mean_ply": 70.1
+  },
+  {
+   "has_eval": false,
+   "speed": "classical",
+   "cls": "draw",
+   "n": 753,
+   "mean_elo": 1645,
+   "mean_ply": 102.9
+  },
+  {
+   "has_eval": false,
+   "speed": "classical",
+   "cls": "mate",
+   "n": 3737,
+   "mean_elo": 1489,
+   "mean_ply": 72.3
+  },
+  {
+   "has_eval": false,
+   "speed": "classical",
+   "cls": "other",
+   "n": 12,
+   "mean_elo": 1476,
+   "mean_ply": 11.1
+  },
+  {
+   "has_eval": false,
+   "speed": "classical",
+   "cls": "resign",
+   "n": 6408,
+   "mean_elo": 1547,
+   "mean_ply": 56.2
+  },
+  {
+   "has_eval": false,
+   "speed": "classical",
+   "cls": "time",
+   "n": 1107,
+   "mean_elo": 1485,
+   "mean_ply": 48.4
+  },
+  {
+   "has_eval": false,
+   "speed": "rapid",
+   "cls": "draw",
+   "n": 20344,
+   "mean_elo": 1503,
+   "mean_ply": 108.7
+  },
+  {
+   "has_eval": false,
+   "speed": "rapid",
+   "cls": "mate",
+   "n": 116993,
+   "mean_elo": 1377,
+   "mean_ply": 69.0
+  },
+  {
+   "has_eval": false,
+   "speed": "rapid",
+   "cls": "other",
+   "n": 810,
+   "mean_elo": 1382,
+   "mean_ply": 1.9
+  },
+  {
+   "has_eval": false,
+   "speed": "rapid",
+   "cls": "resign",
+   "n": 228571,
+   "mean_elo": 1504,
+   "mean_ply": 57.8
+  },
+  {
+   "has_eval": false,
+   "speed": "rapid",
+   "cls": "time",
+   "n": 45756,
+   "mean_elo": 1448,
+   "mean_ply": 66.6
+  },
+  {
+   "has_eval": false,
+   "speed": "ultrabullet",
+   "cls": "draw",
+   "n": 403,
+   "mean_elo": 1889,
+   "mean_ply": 90.9
+  },
+  {
+   "has_eval": false,
+   "speed": "ultrabullet",
+   "cls": "mate",
+   "n": 4656,
+   "mean_elo": 1798,
+   "mean_ply": 47.2
+  },
+  {
+   "has_eval": false,
+   "speed": "ultrabullet",
+   "cls": "other",
+   "n": 112,
+   "mean_elo": 1487,
+   "mean_ply": 1.0
+  },
+  {
+   "has_eval": false,
+   "speed": "ultrabullet",
+   "cls": "resign",
+   "n": 708,
+   "mean_elo": 1958,
+   "mean_ply": 41.9
+  },
+  {
+   "has_eval": false,
+   "speed": "ultrabullet",
+   "cls": "time",
+   "n": 19582,
+   "mean_elo": 1700,
+   "mean_ply": 58.6
+  },
+  {
+   "has_eval": true,
+   "speed": "blitz",
+   "cls": "draw",
+   "n": 5522,
+   "mean_elo": 1839,
+   "mean_ply": 106.6
+  },
+  {
+   "has_eval": true,
+   "speed": "blitz",
+   "cls": "mate",
+   "n": 39822,
+   "mean_elo": 1525,
+   "mean_ply": 67.6
+  },
+  {
+   "has_eval": true,
+   "speed": "blitz",
+   "cls": "other",
+   "n": 4,
+   "mean_elo": 1796,
+   "mean_ply": 33.2
+  },
+  {
+   "has_eval": true,
+   "speed": "blitz",
+   "cls": "resign",
+   "n": 69747,
+   "mean_elo": 1698,
+   "mean_ply": 61.6
+  },
+  {
+   "has_eval": true,
+   "speed": "blitz",
+   "cls": "time",
+   "n": 30955,
+   "mean_elo": 1653,
+   "mean_ply": 76.5
+  },
+  {
+   "has_eval": true,
+   "speed": "bullet",
+   "cls": "draw",
+   "n": 1141,
+   "mean_elo": 1848,
+   "mean_ply": 97.1
+  },
+  {
+   "has_eval": true,
+   "speed": "bullet",
+   "cls": "mate",
+   "n": 17410,
+   "mean_elo": 1679,
+   "mean_ply": 59.5
+  },
+  {
+   "has_eval": true,
+   "speed": "bullet",
+   "cls": "other",
+   "n": 2,
+   "mean_elo": 1439,
+   "mean_ply": 46.5
+  },
+  {
+   "has_eval": true,
+   "speed": "bullet",
+   "cls": "resign",
+   "n": 14203,
+   "mean_elo": 1789,
+   "mean_ply": 54.1
+  },
+  {
+   "has_eval": true,
+   "speed": "bullet",
+   "cls": "time",
+   "n": 32067,
+   "mean_elo": 1606,
+   "mean_ply": 66.0
+  },
+  {
+   "has_eval": true,
+   "speed": "classical",
+   "cls": "draw",
+   "n": 264,
+   "mean_elo": 1754,
+   "mean_ply": 103.8
+  },
+  {
+   "has_eval": true,
+   "speed": "classical",
+   "cls": "mate",
+   "n": 1810,
+   "mean_elo": 1525,
+   "mean_ply": 69.6
+  },
+  {
+   "has_eval": true,
+   "speed": "classical",
+   "cls": "other",
+   "n": 3,
+   "mean_elo": 1526,
+   "mean_ply": 32.0
+  },
+  {
+   "has_eval": true,
+   "speed": "classical",
+   "cls": "resign",
+   "n": 3195,
+   "mean_elo": 1646,
+   "mean_ply": 63.5
+  },
+  {
+   "has_eval": true,
+   "speed": "classical",
+   "cls": "time",
+   "n": 332,
+   "mean_elo": 1579,
+   "mean_ply": 65.0
+  },
+  {
+   "has_eval": true,
+   "speed": "rapid",
+   "cls": "draw",
+   "n": 3883,
+   "mean_elo": 1626,
+   "mean_ply": 107.2
+  },
+  {
+   "has_eval": true,
+   "speed": "rapid",
+   "cls": "mate",
+   "n": 32572,
+   "mean_elo": 1390,
+   "mean_ply": 67.9
+  },
+  {
+   "has_eval": true,
+   "speed": "rapid",
+   "cls": "other",
+   "n": 16,
+   "mean_elo": 1345,
+   "mean_ply": 34.7
+  },
+  {
+   "has_eval": true,
+   "speed": "rapid",
+   "cls": "resign",
+   "n": 53371,
+   "mean_elo": 1564,
+   "mean_ply": 61.9
+  },
+  {
+   "has_eval": true,
+   "speed": "rapid",
+   "cls": "time",
+   "n": 9262,
+   "mean_elo": 1519,
+   "mean_ply": 73.5
+  },
+  {
+   "has_eval": true,
+   "speed": "ultrabullet",
+   "cls": "draw",
+   "n": 12,
+   "mean_elo": 1727,
+   "mean_ply": 79.7
+  },
+  {
+   "has_eval": true,
+   "speed": "ultrabullet",
+   "cls": "mate",
+   "n": 391,
+   "mean_elo": 1809,
+   "mean_ply": 54.2
+  },
+  {
+   "has_eval": true,
+   "speed": "ultrabullet",
+   "cls": "resign",
+   "n": 22,
+   "mean_elo": 1863,
+   "mean_ply": 55.3
+  },
+  {
+   "has_eval": true,
+   "speed": "ultrabullet",
+   "cls": "time",
+   "n": 1982,
+   "mean_elo": 1625,
+   "mean_ply": 58.0
+  }
+ ],
+ "resign_overall": {
+  "n": 140386,
+  "median_cp_loser": -806,
+  "share_mate_against": 0.2878278460815181,
+  "share_cp_ge_-300": 0.042482868662117305,
+  "share_cp_ge_-100": 0.0273816477426524,
+  "mean_lichess_win": 0.06001140996965624,
+  "ES_played_on>=0.05": 0.9934863634096108,
+  "ES_played_on>=0.10": 0.7611334012727959,
+  "ES_played_on>=0.20": 0.4201936987336179,
+  "ES_all>=0.10": 0.583164719293246,
+  "ES_all>=0.20": 0.24780564263322885,
+  "n_with_curve": 140321
+ },
+ "resign_by_speed": {
+  "blitz": {
+   "n": 69684,
+   "median_cp_loser": -797,
+   "share_mate_against": 0.2811692784570346,
+   "share_cp_ge_-300": 0.04148728546007692,
+   "share_cp_ge_-100": 0.02604615119683141,
+   "mean_lichess_win": 0.06041641840307709,
+   "ES_played_on>=0.05": 1.0,
+   "ES_played_on>=0.10": 0.8205613914241433,
+   "ES_played_on>=0.20": 0.4673239194076115,
+   "ES_all>=0.10": 0.6361862120429367,
+   "ES_all>=0.20": 0.24025601285804488,
+   "n_with_curve": 69684
+  },
+  "bullet": {
+   "n": 14190,
+   "median_cp_loser": -827,
+   "share_mate_against": 0.273784355179704,
+   "share_cp_ge_-300": 0.03988724453840733,
+   "share_cp_ge_-100": 0.027977448907681467,
+   "mean_lichess_win": 0.05878595489781534,
+   "ES_played_on>=0.05": 1.0,
+   "ES_played_on>=0.10": 1.0,
+   "ES_played_on>=0.20": 0.7128964059196617,
+   "ES_all>=0.10": 1.0,
+   "ES_all>=0.20": 0.5657505285412262,
+   "n_with_curve": 14190
+  },
+  "classical": {
+   "n": 3190,
+   "median_cp_loser": -802,
+   "share_mate_against": 0.2974921630094044,
+   "share_cp_ge_-300": 0.049843260188087775,
+   "share_cp_ge_-100": 0.0335423197492163,
+   "mean_lichess_win": 0.06349407523510972,
+   "ES_played_on>=0.05": 0.7077070674768149,
+   "ES_played_on>=0.10": 0.4435561240805884,
+   "ES_played_on>=0.20": 0.1826031339942437,
+   "ES_all>=0.10": 0.3155401137081491,
+   "ES_all>=0.20": 0.11433986102337335,
+   "n_with_curve": 3127
+  },
+  "rapid": {
+   "n": 53300,
+   "median_cp_loser": -811,
+   "share_mate_against": 0.2995121951219512,
+   "share_cp_ge_-300": 0.04405253283302064,
+   "share_cp_ge_-100": 0.028611632270168854,
+   "mean_lichess_win": 0.05962209005628535,
+   "ES_played_on>=0.05": 1.0,
+   "ES_played_on>=0.10": 0.6383864915572233,
+   "ES_played_on>=0.20": 0.2944652908067542,
+   "ES_all>=0.10": 0.41861163227016884,
+   "ES_all>=0.20": 0.18078799249530958,
+   "n_with_curve": 53300
+  },
+  "ultrabullet": {
+   "n": 22,
+   "median_cp_loser": -883,
+   "share_mate_against": 0.7272727272727273,
+   "share_cp_ge_-300": 0.0,
+   "share_cp_ge_-100": 0.0,
+   "mean_lichess_win": 0.005813636363636365,
+   "ES_played_on>=0.05": 1.0,
+   "ES_played_on>=0.10": 1.0,
+   "ES_played_on>=0.20": 0.75,
+   "ES_all>=0.10": 1.0,
+   "ES_all>=0.20": 0.7,
+   "n_with_curve": 20
+  }
+ },
+ "resign_by_band": {
+  "1200-1599": {
+   "n": 43508,
+   "median_cp_loser": -822,
+   "share_mate_against": 0.29610646317918543,
+   "share_cp_ge_-300": 0.045600809046612116,
+   "share_cp_ge_-100": 0.031074744874505837,
+   "mean_lichess_win": 0.05963302151328578,
+   "ES_played_on>=0.05": 0.9992184447049629,
+   "ES_played_on>=0.10": 0.6719306714479462,
+   "ES_played_on>=0.20": 0.41096016366687355,
+   "ES_all>=0.10": 0.5709064999540314,
+   "ES_all>=0.20": 0.24829916337225338,
+   "n_with_curve": 43503
+  },
+  "1600-1999": {
+   "n": 48818,
+   "median_cp_loser": -801,
+   "share_mate_against": 0.2861649391617846,
+   "share_cp_ge_-300": 0.03648244499979516,
+   "share_cp_ge_-100": 0.022368798394034987,
+   "mean_lichess_win": 0.05698568560776812,
+   "ES_played_on>=0.05": 0.9875604557750636,
+   "ES_played_on>=0.10": 0.724690548405607,
+   "ES_played_on>=0.20": 0.39808590868103944,
+   "ES_all>=0.10": 0.5442812365558355,
+   "ES_all>=0.20": 0.23432282383791203,
+   "n_with_curve": 48796
+  },
+  "2000+": {
+   "n": 28504,
+   "median_cp_loser": -768,
+   "share_mate_against": 0.2680676396295257,
+   "share_cp_ge_-300": 0.0328725792871176,
+   "share_cp_ge_-100": 0.016243334268874542,
+   "mean_lichess_win": 0.059026491018804944,
+   "ES_played_on>=0.05": 0.9933288859239493,
+   "ES_played_on>=0.10": 0.9158035181348969,
+   "ES_played_on>=0.20": 0.4261437449527755,
+   "ES_all>=0.10": 0.6084804661448279,
+   "ES_all>=0.20": 0.18038541191337007,
+   "n_with_curve": 28481
+  },
+  "<1200": {
+   "n": 19556,
+   "median_cp_loser": -842,
+   "share_mate_against": 0.30236244630803844,
+   "share_cp_ge_-300": 0.06453262425853958,
+   "share_cp_ge_-100": 0.04791368377991409,
+   "mean_lichess_win": 0.06984199222744984,
+   "ES_played_on>=0.05": 0.9957525203418454,
+   "ES_played_on>=0.10": 0.8252904150248196,
+   "ES_played_on>=0.20": 0.4872831482523924,
+   "ES_all>=0.10": 0.6706393861892583,
+   "ES_all>=0.20": 0.37861892583120205,
+   "n_with_curve": 19541
+  }
+ },
+ "resign_by_prev": {
+  "none": {
+   "n": 44052,
+   "median_cp_loser": -803,
+   "share_mate_against": 0.2816217197857078,
+   "share_cp_ge_-300": 0.04610460365023154,
+   "share_cp_ge_-100": 0.029964587305911197,
+   "mean_lichess_win": 0.062235546626714246,
+   "ES_played_on>=0.05": 0.9893457519309404,
+   "ES_played_on>=0.10": 0.7358927760109041,
+   "ES_played_on>=0.20": 0.40647432985006815,
+   "ES_all>=0.10": 0.5577329185494675,
+   "ES_all>=0.20": 0.24373850450736848,
+   "n_with_curve": 44020
+  },
+  "prevloss": {
+   "n": 46130,
+   "median_cp_loser": -802,
+   "share_mate_against": 0.2786689789724691,
+   "share_cp_ge_-300": 0.04552352048558422,
+   "share_cp_ge_-100": 0.029200086711467593,
+   "mean_lichess_win": 0.06243007153696145,
+   "ES_played_on>=0.05": 0.9956415204805169,
+   "ES_played_on>=0.10": 0.7802112019428844,
+   "ES_played_on>=0.20": 0.44348071210182793,
+   "ES_all>=0.10": 0.6105413784879561,
+   "ES_all>=0.20": 0.26611451987078033,
+   "n_with_curve": 46117
+  },
+  "prevnonloss": {
+   "n": 50204,
+   "median_cp_loser": -812,
+   "share_mate_against": 0.3016891084375747,
+   "share_cp_ge_-300": 0.03651103497729265,
+   "share_cp_ge_-100": 0.023444347063978965,
+   "mean_lichess_win": 0.0558374292885031,
+   "ES_played_on>=0.05": 0.9951378925553962,
+   "ES_played_on>=0.10": 0.7657420691853978,
+   "ES_played_on>=0.20": 0.41082815239917103,
+   "ES_all>=0.10": 0.5803219251763019,
+   "ES_all>=0.20": 0.23455117733774253,
+   "n_with_curve": 50184
+  }
+ },
+ "resign_by_clock": {
+  "<10s": {
+   "n": 6313,
+   "median_cp_loser": -821,
+   "share_mate_against": 0.3872960557579598,
+   "share_cp_ge_-300": 0.037858387454459054,
+   "share_cp_ge_-100": 0.027403769998415966,
+   "mean_lichess_win": 0.05121883415175032,
+   "ES_played_on>=0.05": 0.9992077325305023,
+   "ES_played_on>=0.10": 0.8513706227222311,
+   "ES_played_on>=0.20": 0.4254476311202662,
+   "ES_all>=0.10": 0.6528283948661068,
+   "ES_all>=0.20": 0.25415940421486294,
+   "n_with_curve": 6311
+  },
+  "10-29s": {
+   "n": 15453,
+   "median_cp_loser": -831,
+   "share_mate_against": 0.35624150650359154,
+   "share_cp_ge_-300": 0.031838477965443604,
+   "share_cp_ge_-100": 0.024267132595612504,
+   "mean_lichess_win": 0.04989415647447085,
+   "ES_played_on>=0.05": 0.9989646023425872,
+   "ES_played_on>=0.10": 0.8353070601177764,
+   "ES_played_on>=0.20": 0.45428072218986604,
+   "ES_all>=0.10": 0.6653077072413124,
+   "ES_all>=0.20": 0.2780689833689251,
+   "n_with_curve": 15453
+  },
+  "30s+": {
+   "n": 118406,
+   "median_cp_loser": -803,
+   "share_mate_against": 0.2736685640930358,
+   "share_cp_ge_-300": 0.04383223823117072,
+   "share_cp_ge_-100": 0.027566170633244937,
+   "mean_lichess_win": 0.061638343496107875,
+   "ES_played_on>=0.05": 0.9924625875632694,
+   "ES_played_on>=0.10": 0.7465925318776776,
+   "ES_played_on>=0.20": 0.41536043534471834,
+   "ES_all>=0.10": 0.5686675339156291,
+   "ES_all>=0.20": 0.24336470071463567,
+   "n_with_curve": 118343
+  }
+ },
+ "p_resign_given_loss_all_games": {
+  "blitz|none": {
+   "n_loss": 349871,
+   "p_resign": 0.5089
+  },
+  "blitz|prevloss": {
+   "n_loss": 464449,
+   "p_resign": 0.5139
+  },
+  "blitz|prevnonloss": {
+   "n_loss": 520790,
+   "p_resign": 0.4905
+  },
+  "bullet|none": {
+   "n_loss": 180884,
+   "p_resign": 0.2487
+  },
+  "bullet|prevloss": {
+   "n_loss": 412923,
+   "p_resign": 0.2437
+  },
+  "bullet|prevnonloss": {
+   "n_loss": 445254,
+   "p_resign": 0.2221
+  },
+  "classical|none": {
+   "n_loss": 7515,
+   "p_resign": 0.5695
+  },
+  "classical|prevloss": {
+   "n_loss": 4483,
+   "p_resign": 0.5844
+  },
+  "classical|prevnonloss": {
+   "n_loss": 4127,
+   "p_resign": 0.5893
+  },
+  "rapid|none": {
+   "n_loss": 171779,
+   "p_resign": 0.5689
+  },
+  "rapid|prevloss": {
+   "n_loss": 148074,
+   "p_resign": 0.5969
+  },
+  "rapid|prevnonloss": {
+   "n_loss": 159019,
+   "p_resign": 0.5755
+  },
+  "ultrabullet|none": {
+   "n_loss": 1368,
+   "p_resign": 0.0132
+  },
+  "ultrabullet|prevloss": {
+   "n_loss": 13960,
+   "p_resign": 0.033
+  },
+  "ultrabullet|prevnonloss": {
+   "n_loss": 11739,
+   "p_resign": 0.0175
+  }
+ },
+ "hopeless_persistence": {
+  "blitz|mate": {
+   "n": 39809,
+   "share_trail>=10plies": 0.4247,
+   "share_trail>=20plies": 0.262,
+   "median_trail": 7
+  },
+  "blitz|resign": {
+   "n": 69684,
+   "share_trail>=10plies": 0.274,
+   "share_trail>=20plies": 0.1127,
+   "median_trail": 4
+  },
+  "blitz|time": {
+   "n": 30934,
+   "share_trail>=10plies": 0.1764,
+   "share_trail>=20plies": 0.0927,
+   "median_trail": 0
+  },
+  "bullet|mate": {
+   "n": 17406,
+   "share_trail>=10plies": 0.4377,
+   "share_trail>=20plies": 0.2619,
+   "median_trail": 7
+  },
+  "bullet|resign": {
+   "n": 14190,
+   "share_trail>=10plies": 0.2807,
+   "share_trail>=20plies": 0.1211,
+   "median_trail": 4
+  },
+  "bullet|time": {
+   "n": 32059,
+   "share_trail>=10plies": 0.1808,
+   "share_trail>=20plies": 0.0999,
+   "median_trail": 0
+  },
+  "classical|mate": {
+   "n": 1807,
+   "share_trail>=10plies": 0.5091,
+   "share_trail>=20plies": 0.342,
+   "median_trail": 11
+  },
+  "classical|resign": {
+   "n": 3190,
+   "share_trail>=10plies": 0.3351,
+   "share_trail>=20plies": 0.1495,
+   "median_trail": 4
+  },
+  "classical|time": {
+   "n": 331,
+   "share_trail>=10plies": 0.2477,
+   "share_trail>=20plies": 0.145,
+   "median_trail": 0
+  },
+  "rapid|mate": {
+   "n": 32534,
+   "share_trail>=10plies": 0.4666,
+   "share_trail>=20plies": 0.303,
+   "median_trail": 9
+  },
+  "rapid|resign": {
+   "n": 53300,
+   "share_trail>=10plies": 0.3138,
+   "share_trail>=20plies": 0.1406,
+   "median_trail": 4
+  },
+  "rapid|time": {
+   "n": 9242,
+   "share_trail>=10plies": 0.2219,
+   "share_trail>=20plies": 0.1162,
+   "median_trail": 0
+  },
+  "ultrabullet|mate": {
+   "n": 390,
+   "share_trail>=10plies": 0.5256,
+   "share_trail>=20plies": 0.2949,
+   "median_trail": 11
+  },
+  "ultrabullet|resign": {
+   "n": 22,
+   "share_trail>=10plies": 0.5455,
+   "share_trail>=20plies": 0.3636,
+   "median_trail": 10
+  },
+  "ultrabullet|time": {
+   "n": 1982,
+   "share_trail>=10plies": 0.2447,
+   "share_trail>=20plies": 0.1483,
+   "median_trail": 0
+  }
+ }
+}
